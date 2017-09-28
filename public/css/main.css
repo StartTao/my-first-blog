@@ -1,0 +1,54 @@
+
+.mainright{
+	width:300px;
+}
+.rightBox{
+	width: 250px;
+	border:1px solid red;
+	margin: 0  auto;
+}
+/*注册字样*/
+.title{
+	margin: 10px 0 10px 0;
+	font-size:1.5em;
+	margin-left: 10px;
+	border-bottom: 1px solid blue;
+}
+.title span{
+	border-bottom: 3px solid darkred;
+}
+.line{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+/*用户名等*/
+.colDark{
+	display: inline-block;
+	text-align:right;
+	width:70px;
+}
+/*登录按钮*/
+.line button{
+	display: block;
+	margin: 15px auto;
+	margin:10px auto;
+	width: 180px;
+	height: 40px;
+	border: 0;
+	overflow: hidden;
+	vertical-align: middle;
+	line-height: 40px;
+	font-size: 20px;
+	font-weight: 700;
+	color: #fff;
+	background: #f40;
+	border-radius: 3px;
+}
+.textRight{
+	margin-left:50px;
+}
+.colDark{
+	display: inline-block;
+	text-align:right;
+	width:70px;
+}

@@ -1,0 +1,2 @@
+��cmd ��������򿪷��������ݿ����ӣ�����Robo 3T�������ݿ�
+D:\nodejs\MongoDB\Server\3.4\bin>mongod --dbpath=D:\nodejs\samples\my-first-blog\db --port=27017
